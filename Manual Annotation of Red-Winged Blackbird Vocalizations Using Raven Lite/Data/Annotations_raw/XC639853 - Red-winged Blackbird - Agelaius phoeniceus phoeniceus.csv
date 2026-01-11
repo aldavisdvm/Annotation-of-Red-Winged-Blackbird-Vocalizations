@@ -1,0 +1,5 @@
+"Selection","View","Channel","Begin Time (s)","End Time (s)","Low Freq (Hz)","High Freq (Hz)","Delta Time (s)","Delta Freq (Hz)","Avg Power Density (dB FS/Hz)","Annotation"
+1,"Spectrogram 1",1,3.680754712,4.386049028,2151.142,6073.814,0.7053,3922.671,-38.79,"song"
+2,"Spectrogram 1",1,10.711657424,11.483073082,2488.576,6073.814,0.7714,3585.237,-40.26,"song"
+3,"Spectrogram 1",1,18.381733111,19.131108321,2277.68,6073.814,0.7494,3796.134,-38.76,"song"
+4,"Spectrogram 1",1,26.690981771,27.462397429,2319.859,6031.634,0.7714,3711.775,-39.48,"song"
